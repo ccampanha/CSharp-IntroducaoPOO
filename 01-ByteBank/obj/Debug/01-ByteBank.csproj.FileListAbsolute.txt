@@ -1,0 +1,8 @@
+C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.AssemblyReference.cache
+C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\projetos\estudos\CSharp\Alura\FormacaoCSharp\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
