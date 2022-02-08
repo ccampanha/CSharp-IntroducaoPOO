@@ -19,21 +19,21 @@ namespace _05_ByteBank
             
             ContaCorrente conta = new ContaCorrente();
             
-            if (conta.Titular == null)
+            if (conta.titular == null)
                 Console.WriteLine("Ops, a referencia em conta.Titular é NULL");
 
-            conta.Titular = new Cliente();
-            conta.Titular.Nome = "Gabriela Costa";
-            conta.Titular.Cpf = "434.562.878-20";
-            conta.Titular.Profissao = "Desenvolvedora C#";
-            conta.Saldo = 500;
-            conta.Agencia = 563;
-            conta.Numero = 5634527;
+            conta.titular = new Cliente();
+            conta.titular.nome = "Gabriela Costa";
+            conta.titular.cpf = "434.562.878-20";
+            conta.titular.profissao = "Desenvolvedora C#";
+            conta.saldo = 500;
+            conta.agencia = 563;
+            conta.numero = 5634527;
             
 
            // Console.WriteLine(gabriela.Nome);
-            Console.WriteLine(conta.Titular.Nome);
-            Console.WriteLine(conta);
+            Console.WriteLine(conta.titular.nome);
+   
 
             Console.ReadLine();
 

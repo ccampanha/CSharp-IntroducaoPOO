@@ -11,14 +11,14 @@ namespace _03_ByteBank
         static void Main(string[] args)
         {
             ContaCorrente contaDaGabriela = new ContaCorrente();
-            contaDaGabriela.Titular = "Gabriela";
-            contaDaGabriela.Agencia = 863;
-            contaDaGabriela.Numero = 863452;
+            contaDaGabriela.titular = "Gabriela";
+            contaDaGabriela.agencia = 863;
+            contaDaGabriela.numero = 863452;
 
             ContaCorrente contaDaGabrielaCosta = new ContaCorrente();
-            contaDaGabrielaCosta.Titular = "Gabriela";
-            contaDaGabrielaCosta.Agencia = 863;
-            contaDaGabrielaCosta.Numero = 863146;
+            contaDaGabrielaCosta.titular = "Gabriela";
+            contaDaGabrielaCosta.agencia = 863;
+            contaDaGabrielaCosta.numero = 863146;
 
             Console.WriteLine("Igualdade de tipo de referência: " + (contaDaGabriela == contaDaGabrielaCosta));
 
@@ -30,9 +30,9 @@ namespace _03_ByteBank
             contaDaGabriela = contaDaGabrielaCosta;
             Console.WriteLine(contaDaGabriela == contaDaGabrielaCosta);
 
-            contaDaGabriela.Saldo = 300;
-            Console.WriteLine(contaDaGabriela.Saldo);
-            Console.WriteLine(contaDaGabrielaCosta.Saldo);
+            contaDaGabriela.saldo = 300;
+            Console.WriteLine(contaDaGabriela.saldo);
+            Console.WriteLine(contaDaGabrielaCosta.saldo);
 
             Console.ReadLine();
 

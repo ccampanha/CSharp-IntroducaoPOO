@@ -13,12 +13,12 @@ namespace _02_ByteBank
         {
             ContaCorrente conta = new ContaCorrente();
 
-            conta.Titular = "Gabriela";
+            conta.titular = "Gabriela";
 
-            Console.WriteLine(conta.Titular);
-            Console.WriteLine(conta.Agencia);
-            Console.WriteLine(conta.Numero);
-            Console.WriteLine(conta.Saldo);
+            Console.WriteLine(conta.titular);
+            Console.WriteLine(conta.agencia);
+            Console.WriteLine(conta.numero);
+            Console.WriteLine(conta.saldo);
 
             Console.ReadLine();
             
